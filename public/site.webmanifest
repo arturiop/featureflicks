@@ -1,7 +1,0 @@
-{
-    "name": "GrandGreet",
-    "short_name": "GG",
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
-}
