@@ -26,8 +26,7 @@
         "react-snowfall": "^2.4.0",
         "tailwind-merge": "^2.5.2",
         "tailwind-scrollbar-hide": "^4.0.0",
-        "tailwindcss-animate": "^1.0.7",
-        "vaul": "^0.9.3"
+        "tailwindcss-animate": "^1.0.7"
     },
     "devDependencies": {
         "@eslint/js": "^9.29.0",
